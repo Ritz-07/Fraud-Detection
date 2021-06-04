@@ -9,7 +9,7 @@ The project is a demonstration of how thorough analysis and understanding of dat
 Because of the imbalance in the classes, Recall was chosen as the appropriate metric. 
 Following is the interpretation of both recall and precision for the given scenario:
 
-Recall - Out of all the fraudulent points, how many points were correctly clasified as fraud
+Recall - Out of all the fraudulent points, how many points were correctly clasified as fraud <br>
 Precision - Out of all the points that the classifier predicted to be fraudulent, how many of those points were actually fraud
 
 In this case, recall comes out on top. At the end of the project, with some tuning of hyperparameters for both Random Forest and XGBoost, Random Forest performed the best
